@@ -4,6 +4,6 @@ numpy==1.26.4
 scikit-learn
 tensorboard
 matplotlib
-streamlit
-scikeras
-#tensorflow-metal       # for Apple Silicon GPU acceleration
+streamlit==1.32.0
+altair==4.2.2
+scikeras==0.13.0
